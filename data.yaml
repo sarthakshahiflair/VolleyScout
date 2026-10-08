@@ -1,0 +1,6 @@
+path: /media/iflair/New Volume/VolleyScout/dataset
+train: images/train
+val: images/val
+test: images/test
+names:
+  0: player
